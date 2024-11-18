@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+// import Sample from "./simplecomponent";
 
 function App() {
   return (
@@ -18,7 +19,20 @@ function App() {
           Learn React
         </a>
       </header>
+      <p className="para">hello this is paragraph</p>
+      {/* <Sample/> */}
+      <a
+          className="App-link"
+          // href="./simplecomponent.js"
+          href="./component2.js"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          click
+        </a>
+      
     </div>
+    
   );
 }
 

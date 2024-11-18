@@ -1,0 +1,26 @@
+.sc{
+    text-align: center;
+    width:100vw;
+    height:50vh;
+    border: 2px solid black;
+}
+.head1{
+    color:red;
+    
+}
+.p1{
+    background-color: black;
+    color:white;
+}
+.p2{
+    background-color: deeppink;
+    color:beige;
+}
+.demo{
+    top:20px;
+    position:relative;
+    text-align: center;
+    width:100vw;
+    height:50vh;
+    border: 2px dotted red;
+}
